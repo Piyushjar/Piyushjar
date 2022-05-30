@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
 <h3 align="center">Web development Enthusiast</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular**,**Backend**
 
 - ⚡ Fun fact **I like anime**
 
